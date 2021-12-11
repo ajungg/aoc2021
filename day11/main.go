@@ -36,7 +36,7 @@ func main() {
 		h += 1
 	}
 
-	for i := 0; i < 195; i++ {
+	for i := 0; i < 100; i++ {
 		step()
 	}
 
